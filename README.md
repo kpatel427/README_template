@@ -14,9 +14,11 @@ Foobar is library for dealing with word pluralization.
 - [Contributing](#Contributing)
 - [Additional info](#Additional%20info)
 
+<a name="Prerequisites"></a>
 ## Prerequisites
 > What things you need to install the software and how to install them
 
+<a name="Installation"></a>
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
@@ -24,7 +26,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install foobar
 ```
-
+<a name="Usage/How-to-run"></a>
 ## Usage/How-to-run
 
 ```python
@@ -38,12 +40,12 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 ```R
 library(ggplot2)
 ```
-
+<a name="Contributing"></a>
 ## Contributing
 For major changes before pulling requests, please open an issue first to discuss what you would like to change.
 
 
-
+<a name="Additional info"></a>
 ## Additional info
 > Author/organisation contact:
 
